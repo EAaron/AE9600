@@ -1,0 +1,29 @@
+	/* ==========================================================================
+   Header
+   ========================================================================== */
+
+.site-header {
+
+	.wrap{
+
+		padding: 0;
+		margin:0;
+		background-color: #232323;
+		position:relative;
+
+		.title-area {
+			z-index:99999;
+			position: absolute
+		}
+	}
+}
+
+
+.site-title {
+}
+
+.site-description {
+}
+
+.header-widget-area {
+}
